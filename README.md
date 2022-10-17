@@ -118,7 +118,7 @@ source activate python2
 
 3. Clone project:
 ```
-git clone http://gitlab.treelogic.local/operaciones/hercules/sgi/sgi-ap
+git clone https://github.com/hercules-sgi/sgi-ap
 ```
 
 4. Install dependencies:
